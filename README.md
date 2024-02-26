@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @somesh25895
+- 👋 Hi, I’m Somesh
 - 👀 I’m interested in ...python coding,c#,c++,java,html
-- 🌱 I’m currently learning ...python coding
+- 🌱 I’m currently learning ...python coding, unreal enigne
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
